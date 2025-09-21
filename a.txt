@@ -1,1 +1,4 @@
-aaaa
+User-agent: Googlebot
+allow:
+
+Sitemap: https://ejurnal.mmnesia.id/sitemap.xml
