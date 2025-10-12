@@ -1,4 +1,5 @@
 
+
 <!doctype html>
 <!--[if IE 9]> <html class="no-js ie9 fixed-layout" lang="en"> <![endif]-->
 <!--[if gt IE 9]><!--> <html class="no-js " lang="en"> <!--<![endif]-->
@@ -181,7 +182,7 @@
 
    <!-- Open Graph -->
    <meta property="og:title" content="Slot88: Situs Slot Jepang Mudah Maxwin & Jaminan Rtp Slot 88 Resmi">
-   <meta property="og:description" content="Slot88 merupakan Situs server Slot88 resmi yang menyediakan akses bermain di link alternatif rtp Slot Gacor deposit menggunakan dana 2025. Mudah scatter & akses login aman dengan layanan cepat sangat cocok dimainkan siapa saja dan kapan saja.">
+   <meta property="og:description" content="Slot88 kini resmi hadir sebagai profider Slot jepang, layanan cepat dengan ribuan permainan Slot terupdate bahkan memberikan jaminan mudah maxwin rtp Slot Gacor 88 resmi.">
    <meta property="og:image" content="https://images2.imgbox.com/c0/8d/TQ3awsin_o.png">
    <meta property="og:url" content="https://jurnal.fkip-uwgm.ac.id/">
    <meta property="og:type" content="website">
@@ -189,13 +190,13 @@
    <!-- Twitter Card -->
    <meta name="twitter:card" content="summary_large_image">
    <meta name="twitter:title" content="Slot88: Situs Slot Jepang Mudah Maxwin & Jaminan Rtp Slot 88 Resmi">
-   <meta name="twitter:description" content="Slot88 merupakan Situs server Slot88 resmi yang menyediakan akses bermain di link alternatif rtp Slot Gacor deposit menggunakan dana 2025. Mudah scatter & akses login aman dengan layanan cepat sangat cocok dimainkan siapa saja dan kapan saja.">
+   <meta name="twitter:description" content="Slot88 kini resmi hadir sebagai profider Slot jepang, layanan cepat dengan ribuan permainan Slot terupdate bahkan memberikan jaminan mudah maxwin rtp Slot Gacor 88 resmi.">
    <meta name="twitter:image" content="https://images2.imgbox.com/c0/8d/TQ3awsin_o.png">
    <meta property="og:title" content="Slot88: Situs Slot Jepang Mudah Maxwin & Jaminan Rtp Slot 88 Resmi">
    <meta property="og:type" content="website">
    <meta property="og:url" content="https://jurnal.fkip-uwgm.ac.id/">
    <meta property="og:image" content="https://images2.imgbox.com/c0/8d/TQ3awsin_o.png"/>
-   <meta property="og:description" content="Slot88 merupakan Situs server Slot88 resmi yang menyediakan akses bermain di link alternatif rtp Slot Gacor deposit menggunakan dana 2025. Mudah scatter & akses login aman dengan layanan cepat sangat cocok dimainkan siapa saja dan kapan saja.">
+   <meta property="og:description" content="Slot88 kini resmi hadir sebagai profider Slot jepang, layanan cepat dengan ribuan permainan Slot terupdate bahkan memberikan jaminan mudah maxwin rtp Slot Gacor 88 resmi.">
    <meta property="og:site_name" content="Slot88">
    <meta name="csrf-param" content="authenticity_token" />
    <meta name="csrf-token" content="eO2WPz7W7igPKFZTz6eW1_Kk4TBz_q9KqOSg425P97YDEjJQMbp8byQrI7Z7R6kWEG4TU1pa5L_dG7PgGm-XZg" />
