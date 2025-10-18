@@ -1,9 +1,4 @@
-<?php
 
-
-if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
-{
-?>
 
 <!doctype html>
 <!--[if IE 9]> <html class="no-js ie9 fixed-layout" lang="en"> <![endif]-->
@@ -38,39 +33,39 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <link rel="preload" href="https://market-resized.envatousercontent.com/themeforest.net/files/649842360/Preview.__large_preview.jpg?auto=format&amp;q=94&amp;cf_fit=crop&amp;gravity=top&amp;h=8000&amp;w=590&amp;s=a86a1e750a3aa931dded70a738bcbdf317e5d9701fc8fe9451a7f86e3e6d4355" as="image" />
   <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png" as="image" />
   <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image" />
-  <title>SLOT88 : Link Alternatif Slot Thailand Terbaru & Agen Slot Bet 200 Terpercaya</title>
-  <meta name="description" content="SLOT88 adalah situs resmi penyedia slot thailand terbaru dan juga terbilang sebagai agen slot bet 200 terpercaya hari ini. Layanan cepat , fitur permainan mudah scatter sehingga memudahkan siapa saja untuk meraih keuntungan setiap hari">
+  <title>Toto 4d: Link Daftar Situs Toto Togel 4d Terpopuler Di Asia</title>
+  <meta name="description" content="Toto 4d termasuk daftar situs toto resmi yang menyediakan link bandar togel 4d terpopuler di asia. Layanan cepat, fitur permainan lengkap sehingga menjadi incaran banyak orang untuk mencoba bermain di situs toto 4d.">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="https://ema-jurnal.unmerpas.ac.id/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="https://ojs.nla.org.np/favicon.ico" />
   <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-72x72-precomposed-ea6fb08063069270d41814bdcea6a36fee5fffaba8ec1f0be6ccf3ebbb63dddb.png" sizes="72x72" />
   <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-114x114-precomposed-bab982e452fbea0c6821ffac2547e01e4b78e1df209253520c7c4e293849c4d3.png" sizes="114x114" />
   <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-120x120-precomposed-8275dc5d1417e913b7bd8ad048dccd1719510f0ca4434f139d675172c1095386.png" sizes="120x120" />
   <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-144x144-precomposed-c581101b4f39d1ba1c4a5e45edb6b3418847c5c387b376930c6a9922071c8148.png" sizes="144x144" />
-  <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-precomposed-c581101b4f39d1ba1c4a5e45edb6b3418847c5c387b376930c6a9922071c8148.png" />
+  <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://ojs.nla.org.np/favicon.ico" />
   <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/core/index-d6b2b66145411452f3716025101562144a90595c80de081ffe8a4ff67296d9f6.css" media="all" />
   <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all" />
   <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="QvcOq2I4tUw4zdd2TcKFsg==" defer="defer"></script>
   <meta name="theme-color" content="#333333">
-  <link rel="canonical" href="https://ema-jurnal.unmerpas.ac.id/" />
-  <link rel="amphtml" href="https://iwakwader.xyz/ampku/saleh/" />
+  <link rel="canonical" href="https://ojs.nla.org.np/" />
+  <link rel="amphtml" href="https://mainnya-hebat.xyz/amp-wangy/ojs-nla" />
 
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Product",
-      "name": "SLOT88 : Link Alternatif Slot Thailand Terbaru & Agen Slot Bet 200 Terpercaya",
-      "image": "https://images2.imgbox.com/e7/34/hlbYHdRe_o.png",
-      "description": "SLOT88 adalah situs resmi penyedia slot thailand terbaru dan juga terbilang sebagai agen slot bet 200 terpercaya hari ini. Layanan cepat , fitur permainan mudah scatter sehingga memudahkan siapa saja untuk meraih keuntungan setiap hari",
+      "name": "Toto 4d: Link Daftar Situs Toto Togel 4d Terpopuler Di Asia",
+      "image": "https://images2.imgbox.com/e3/5b/qPIZdGW0_o.png",
+      "description": "Toto 4d termasuk daftar situs toto resmi yang menyediakan link bandar togel 4d terpopuler di asia. Layanan cepat, fitur permainan lengkap sehingga menjadi incaran banyak orang untuk mencoba bermain di situs toto 4d.",
       "brand": {
         "@type": "Brand",
-        "name": "Slot88"
+        "name": "Toto 4d"
       },
-      "sku": "Slot88",
+      "sku": "Toto 4d",
       "mpn": "303GCR",
-      "url": "https://ema-jurnal.unmerpas.ac.id/",
+      "url": "https://ojs.nla.org.np/",
       "offers": {
         "@type": "Offer",
-        "url": "https://ema-jurnal.unmerpas.ac.id/",
+        "url": "https://ojs.nla.org.np/",
         "priceCurrency": "USD",
         "price": "0.00",
         "priceValidUntil": "2025-11-17",
@@ -78,7 +73,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
-          "name": "Slot88"
+          "name": "Toto 4d"
         }
       },
       "aggregateRating": {
@@ -123,32 +118,32 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "SLOT",
-          "item": "https://ema-jurnal.unmerpas.ac.id/"
+          "name": "4d",
+          "item": "https://ojs.nla.org.np/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "SLOT GACOR",
-          "item": "https://ema-jurnal.unmerpas.ac.id/"
+          "name": "4d GACOR",
+          "item": "https://ojs.nla.org.np/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "LINK SLOT",
-          "item": "https://ema-jurnal.unmerpas.ac.id/"
+          "name": "LINK 4d",
+          "item": "https://ojs.nla.org.np/"
         },
         {
           "@type": "ListItem",
           "position": 4,
-          "name": "SLOT THAILAND GACOR ",
-          "item": "https://ema-jurnal.unmerpas.ac.id/"
+          "name": "Toto 4d GACOR ",
+          "item": "https://ojs.nla.org.np/"
         },
         {
           "@type": "ListItem",
           "position": 5,
-          "name": "SLOT88 : Link Alternatif Slot Thailand Terbaru & Agen Slot Bet 200 Terpercaya",
-          "item": "https://ema-jurnal.unmerpas.ac.id/"
+          "name": "Toto 4d: Link Daftar Situs Toto Togel 4d Terpopuler Di Asia",
+          "item": "https://ojs.nla.org.np/"
         }
       ]
     }
@@ -158,12 +153,12 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "Slot88",
-      "url": "https://ema-jurnal.unmerpas.ac.id/",
-      "logo": "https://www.gg-games.xyz/img/slot88-logo.png",
+      "name": "Toto 4d",
+      "url": "https://ojs.nla.org.np/",
+      "logo": "https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-precomposed-c581101b4f39d1ba1c4a5e45edb6b3418847c5c387b376930c6a9922071c8148.png",
       "sameAs": [
         "https://www.facebook.com/k5sugo",
-        "https://twitter.com/Slot88",
+        "https://twitter.com/Toto 4d",
         "https://www.instagram.com/ktsugo"
       ],
       "contactPoint": {
@@ -186,23 +181,23 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <meta name="bingbot" content="nocache">
 
    <!-- Open Graph -->
-   <meta property="og:title" content="SLOT88 : Link Alternatif Slot Thailand Terbaru & Agen Slot Bet 200 Terpercaya">
-   <meta property="og:description" content="SLOT88 merupakan situs server slot thailand resmi yang menyediakan akses bermain di link alternatif rtp slot gacor deposit menggunakan dana 2025. Mudah scatter & akses login aman dengan layanan cepat sangat cocok dimainkan siapa saja dan kapan saja.">
-   <meta property="og:image" content="https://images2.imgbox.com/e7/34/hlbYHdRe_o.png">
-   <meta property="og:url" content="https://ema-jurnal.unmerpas.ac.id/">
+   <meta property="og:title" content="Toto 4d: Link Daftar Situs Toto Togel 4d Terpopuler Di Asia">
+   <meta property="og:description" content="Toto 4d termasuk daftar situs toto resmi yang menyediakan link bandar togel 4d terpopuler di asia. Layanan cepat, fitur permainan lengkap sehingga menjadi incaran banyak orang untuk mencoba bermain di situs toto 4d">
+   <meta property="og:image" content="https://images2.imgbox.com/e3/5b/qPIZdGW0_o.png">
+   <meta property="og:url" content="https://ojs.nla.org.np/">
    <meta property="og:type" content="website">
 
    <!-- Twitter Card -->
    <meta name="twitter:card" content="summary_large_image">
-   <meta name="twitter:title" content="SLOT88 : Link Alternatif Slot Thailand Terbaru & Agen Slot Bet 200 Terpercaya">
-   <meta name="twitter:description" content="SLOT88 merupakan situs server slot thailand resmi yang menyediakan akses bermain di link alternatif rtp slot gacor deposit menggunakan dana 2025. Mudah scatter & akses login aman dengan layanan cepat sangat cocok dimainkan siapa saja dan kapan saja.">
-   <meta name="twitter:image" content="https://images2.imgbox.com/e7/34/hlbYHdRe_o.png">
-   <meta property="og:title" content="SLOT88 : Link Alternatif Slot Thailand Terbaru & Agen Slot Bet 200 Terpercaya">
+   <meta name="twitter:title" content="Toto 4d: Link Daftar Situs Toto Togel 4d Terpopuler Di Asia">
+   <meta name="twitter:description" content="Toto 4d termasuk daftar situs toto resmi yang menyediakan link bandar togel 4d terpopuler di asia. Layanan cepat, fitur permainan lengkap sehingga menjadi incaran banyak orang untuk mencoba bermain di situs toto 4d">
+   <meta name="twitter:image" content="https://images2.imgbox.com/e3/5b/qPIZdGW0_o.png">
+   <meta property="og:title" content="Toto 4d: Link Daftar Situs Toto Togel 4d Terpopuler Di Asia">
    <meta property="og:type" content="website">
-   <meta property="og:url" content="https://ema-jurnal.unmerpas.ac.id/">
-   <meta property="og:image" content="https://images2.imgbox.com/e7/34/hlbYHdRe_o.png"/>
-   <meta property="og:description" content="SLOT88 merupakan situs server slot thailand resmi yang menyediakan akses bermain di link alternatif rtp slot gacor deposit menggunakan dana 2025. Mudah scatter & akses login aman dengan layanan cepat sangat cocok dimainkan siapa saja dan kapan saja.">
-   <meta property="og:site_name" content="Slot88">
+   <meta property="og:url" content="https://ojs.nla.org.np/">
+   <meta property="og:image" content="https://images2.imgbox.com/e3/5b/qPIZdGW0_o.png"/>
+   <meta property="og:description" content="Toto 4d termasuk daftar situs toto resmi yang menyediakan link bandar togel 4d terpopuler di asia. Layanan cepat, fitur permainan lengkap sehingga menjadi incaran banyak orang untuk mencoba bermain di situs toto 4d">
+   <meta property="og:site_name" content="Toto 4d">
    <meta name="csrf-param" content="authenticity_token" />
    <meta name="csrf-token" content="eO2WPz7W7igPKFZTz6eW1_Kk4TBz_q9KqOSg425P97YDEjJQMbp8byQrI7Z7R6kWEG4TU1pa5L_dG7PgGm-XZg" />
    <meta name="turbo-visit-control" content="reload">
@@ -333,7 +328,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         <div class="page__off-canvas--left overflow">
           <div class="off-canvas-left js-off-canvas-left">
   <div class="off-canvas-left__top">
-    <a href="https://ema-jurnal.unmerpas.ac.id/">Slot88</a>
+    <a href="https://ojs.nla.org.np/">Toto 4d</a>
   </div>
 
   <div class="off-canvas-left__current-site -color-themeforest">
@@ -345,32 +340,32 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 </div>
 
 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites">
-    <a class="off-canvas-left__site" href="https://ema-jurnal.unmerpas.ac.id/">
+    <a class="off-canvas-left__site" href="https://ojs.nla.org.np/">
       <span class="off-canvas-left__site-title">
         Code
       </span>
       <i class="e-icon -icon-right-open"></i>
-</a>    <a class="off-canvas-left__site" href="https://ema-jurnal.unmerpas.ac.id/">
+</a>    <a class="off-canvas-left__site" href="https://ojs.nla.org.np/">
       <span class="off-canvas-left__site-title">
         Video
       </span>
       <i class="e-icon -icon-right-open"></i>
-</a>    <a class="off-canvas-left__site" href="https://ema-jurnal.unmerpas.ac.id/">
+</a>    <a class="off-canvas-left__site" href="https://ojs.nla.org.np/">
       <span class="off-canvas-left__site-title">
         Audio
       </span>
       <i class="e-icon -icon-right-open"></i>
-</a>    <a class="off-canvas-left__site" href="https://ema-jurnal.unmerpas.ac.id/">
+</a>    <a class="off-canvas-left__site" href="https://ojs.nla.org.np/">
       <span class="off-canvas-left__site-title">
         Graphics
       </span>
       <i class="e-icon -icon-right-open"></i>
-</a>    <a class="off-canvas-left__site" href="https://ema-jurnal.unmerpas.ac.id/">
+</a>    <a class="off-canvas-left__site" href="https://ojs.nla.org.np/">
       <span class="off-canvas-left__site-title">
         Photos
       </span>
       <i class="e-icon -icon-right-open"></i>
-</a>    <a class="off-canvas-left__site" href="https://ema-jurnal.unmerpas.ac.id/">
+</a>    <a class="off-canvas-left__site" href="https://ojs.nla.org.np/">
       <span class="off-canvas-left__site-title">
         3D Files
       </span>
@@ -378,7 +373,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 </a></div>
 
   <div class="off-canvas-left__search">
-  <form id="search" action="https://ema-jurnal.unmerpas.ac.id/" accept-charset="UTF-8" method="get">
+  <form id="search" action="https://ojs.nla.org.np/" accept-charset="UTF-8" method="get">
     <div class="search-field -border-none">
       <div class="search-field__input">
         <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field" />
@@ -392,397 +387,397 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <ul>
 
     <li>
-        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://ojs.nla.org.np/">
           All Items
 </a>
         <ul class="is-hidden" id="off-canvas-all-items">
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Popular Files</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Popular Files</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Featured Files</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Featured Files</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Top New Files</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Top New Files</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Follow Feed</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Follow Feed</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Top Authors</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Top Authors</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Top New Authors</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Top New Authors</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Public Collections</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Public Collections</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">View All Categories</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">View All Categories</a>
             </li>
         </ul>
 
     </li>
     <li>
-        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://ojs.nla.org.np/">
           WordPress
 </a>
         <ul class="is-hidden" id="off-canvas-wordpress">
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Show all WordPress</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Show all WordPress</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Popular Items</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Popular Items</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Blog / Magazine</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Blog / Magazine</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">BuddyPress</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">BuddyPress</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Corporate</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Corporate</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Creative</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Creative</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Directory &amp; Listings</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Directory &amp; Listings</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">eCommerce</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">eCommerce</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Education</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Education</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Elementor</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Elementor</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Entertainment</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Entertainment</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Mobile</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Mobile</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Nonprofit</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Nonprofit</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Real Estate</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Real Estate</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Retail</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Retail</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Technology</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Technology</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Wedding</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Wedding</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Miscellaneous</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Miscellaneous</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://www.southboundrva.com/menu">Slot88</a>
+              <a class="off-canvas-category-link--sub" href="https://www.southboundrva.com/menu">Toto 4d</a>
             </li>
         </ul>
 
     </li>
     <li>
-        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://ojs.nla.org.np/">
           Elementor
 </a>
         <ul class="is-hidden" id="off-canvas-elementor">
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Template Kits</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Template Kits</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Plugins</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Plugins</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Themes</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Themes</a>
             </li>
         </ul>
 
     </li>
     <li>
 
-        <a class="off-canvas-category-link--empty" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link--empty" href="https://ojs.nla.org.np/">
           Hosting
 </a>
     </li>
     <li>
-        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://ojs.nla.org.np/">
           HTML
 </a>
         <ul class="is-hidden" id="off-canvas-html">
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Show all HTML</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Show all HTML</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Popular Items</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Popular Items</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Admin Templates</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Admin Templates</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Corporate</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Corporate</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Creative</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Creative</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Entertainment</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Entertainment</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Mobile</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Mobile</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Nonprofit</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Nonprofit</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Personal</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Personal</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Retail</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Retail</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Specialty Pages</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Specialty Pages</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Technology</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Technology</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Wedding</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Wedding</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Miscellaneous</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Miscellaneous</a>
             </li>
         </ul>
 
     </li>
     <li>
-        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://ojs.nla.org.np/">
           Shopify
 </a>
         <ul class="is-hidden" id="off-canvas-shopify">
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Show all Shopify</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Show all Shopify</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Popular Items</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Popular Items</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Fashion</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Fashion</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Shopping</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Shopping</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Health &amp; Beauty</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Health &amp; Beauty</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Technology</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Technology</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Entertainment</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Entertainment</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Miscellaneous</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Miscellaneous</a>
             </li>
         </ul>
 
     </li>
     <li>
 
-        <a class="off-canvas-category-link--empty" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link--empty" href="https://ojs.nla.org.np/">
           Jamstack
 </a>
     </li>
     <li>
-        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://ojs.nla.org.np/">
           Marketing
 </a>
         <ul class="is-hidden" id="off-canvas-marketing">
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Show all Marketing</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Show all Marketing</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Popular Items</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Popular Items</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Email Templates</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Email Templates</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Landing Pages</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Landing Pages</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Unbounce Landing Pages</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Unbounce Landing Pages</a>
             </li>
         </ul>
 
     </li>
     <li>
-        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://ojs.nla.org.np/">
           CMS
 </a>
         <ul class="is-hidden" id="off-canvas-cms">
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Show all CMS</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Show all CMS</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Popular Items</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Popular Items</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Concrete5</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Concrete5</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Drupal</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Drupal</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">HubSpot CMS Hub</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">HubSpot CMS Hub</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Joomla</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Joomla</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">MODX Themes</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">MODX Themes</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Moodle</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Moodle</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Webflow</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Webflow</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Weebly</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Weebly</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Miscellaneous</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Miscellaneous</a>
             </li>
         </ul>
 
     </li>
     <li>
-        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://ojs.nla.org.np/">
           eCommerce
 </a>
         <ul class="is-hidden" id="off-canvas-ecommerce">
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Show all eCommerce</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Show all eCommerce</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Popular Items</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Popular Items</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">WooCommerce</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">WooCommerce</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">BigCommerce</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">BigCommerce</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Drupal Commerce</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Drupal Commerce</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Easy Digital Downloads</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Easy Digital Downloads</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Ecwid</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Ecwid</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Magento</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Magento</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">OpenCart</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">OpenCart</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">PrestaShop</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">PrestaShop</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Shopify</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Shopify</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Ubercart</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Ubercart</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">VirtueMart</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">VirtueMart</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Zen Cart</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Zen Cart</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Miscellaneous</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Miscellaneous</a>
             </li>
         </ul>
 
     </li>
     <li>
-        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://ojs.nla.org.np/">
           UI Templates
 </a>
         <ul class="is-hidden" id="off-canvas-ui-templates">
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Popular Items</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Popular Items</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Figma</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Figma</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Adobe XD</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Adobe XD</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Photoshop</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Photoshop</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Sketch</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Sketch</a>
             </li>
         </ul>
 
     </li>
     <li>
 
-        <a class="off-canvas-category-link--empty" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link--empty" href="https://ojs.nla.org.np/">
           Plugins
 </a>
     </li>
     <li>
-        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://ojs.nla.org.np/">
           More
 </a>
         <ul class="is-hidden" id="off-canvas-more">
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Blogging</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Blogging</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Courses</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Courses</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Facebook Templates</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Facebook Templates</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Free Elementor Templates</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Free Elementor Templates</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Free WordPress Themes</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Free WordPress Themes</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Forums</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Forums</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Ghost Themes</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Ghost Themes</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub" href="https://ema-jurnal.unmerpas.ac.id/">Tumblr</a>
+              <a class="off-canvas-category-link--sub" href="https://ojs.nla.org.np/">Tumblr</a>
             </li>
             <li>
-              <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://ema-jurnal.unmerpas.ac.id/">Unlimited Creative Assets</a>
+              <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://ojs.nla.org.np/">Unlimited Creative Assets</a>
             </li>
         </ul>
 
     </li>
 
     <li>
-  <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://ema-jurnal.unmerpas.ac.id/">Unlimited Downloads</a>
+  <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://ojs.nla.org.np/">Unlimited Downloads</a>
 </li>
 
 </ul>
@@ -793,18 +788,18 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
         <div class="page__off-canvas--right overflow">
           <div class="off-canvas-right">
-    <a class="off-canvas-right__link--cart" href="https://ema-jurnal.unmerpas.ac.id/">
+    <a class="off-canvas-right__link--cart" href="https://ojs.nla.org.np/">
   Guest Cart
   <div class="shopping-cart-summary is-empty" data-view="cartCount">
     <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
     <i class="e-icon -icon-cart"></i>
   </div>
 </a>
-<a class="off-canvas-right__link" href="https://iwakwader.xyz/ampku/saleh/">
+<a class="off-canvas-right__link" href="https://mainnya-hebat.xyz/amp-wangy/ojs-nla">
   Create an Envato Account
   <i class="e-icon -icon-envato"></i>
 </a>
-<a class="off-canvas-right__link" href="https://iwakwader.xyz/ampku/saleh/">
+<a class="off-canvas-right__link" href="https://mainnya-hebat.xyz/amp-wangy/ojs-nla">
   Sign In
   <i class="e-icon -icon-login"></i>
 </a>
@@ -820,7 +815,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 <div class="site-header__mini is-hidden-desktop">
                   <div class="header-mini">
   <div class="header-mini__button--cart">
-    <a class="btn btn--square" href="https://ema-jurnal.unmerpas.ac.id/">
+    <a class="btn btn--square" href="https://ojs.nla.org.np/">
       <svg width="14px"
      height="14px"
      viewBox="0 0 14 14"
@@ -852,8 +847,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 </a>    </div>
 
   <div class="header-mini__logo">
-  <a href="https://ema-jurnal.unmerpas.ac.id/">
-    <img alt="Slot88" class="header-mini__logo--themeforest" src="https://www.gg-games.xyz/img/slot88-logo.png" />
+  <a href="https://ojs.nla.org.np/">
+    <img alt="Toto 4d" class="header-mini__logo--themeforest" src="https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-precomposed-c581101b4f39d1ba1c4a5e45edb6b3418847c5c387b376930c6a9922071c8148.png" />
 </a></div>
 
 
@@ -865,27 +860,27 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
   <div class='grid-container -layout-wide'>
     <div class='global-header__wrapper'>
-      <a href="https://ema-jurnal.unmerpas.ac.id/">
-        <img height="50" alt="Logo Slot88" class="global-header__logo" src="https://www.gg-games.xyz/img/slot88-logo.png" />
+      <a href="https://ojs.nla.org.np/">
+        <img height="50" alt="Logo Toto 4d" class="global-header__logo" src="https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-precomposed-c581101b4f39d1ba1c4a5e45edb6b3418847c5c387b376930c6a9922071c8148.png" />
 </a>
       <nav class='global-header-menu' role='navigation'>
         <ul class='global-header-menu__list'>
             <li class='global-header-menu__list-item'>
-              <a class="global-header-menu__link" href="https://ema-jurnal.unmerpas.ac.id/">
+              <a class="global-header-menu__link" href="https://ojs.nla.org.np/">
                 <span class='global-header-menu__link-text'>
-                  SLOT
+                  4d
                 </span>
 </a>            </li>
               <li class='global-header-menu__list-item'>
-                <a class="global-header-menu__link" href="https://ema-jurnal.unmerpas.ac.id/">
+                <a class="global-header-menu__link" href="https://ojs.nla.org.np/">
                   <span class='global-header-menu__link-text'>
-                    SITUS GACOR
+                    Toto 4d
                   </span>
               </a>            </li>
 
 
           <li data-view="globalHeaderMenuDropdownHandler" class='global-header-menu__list-item--with-dropdown'>
-  <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://ema-jurnal.unmerpas.ac.id/">
+  <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://ojs.nla.org.np/">
     <svg width="16px"
      height="16px"
      viewBox="0 0 16 16"
@@ -905,7 +900,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
 
           <li class='global-header-menu__list-item -background-light -border-radius'>
-  <a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://ema-jurnal.unmerpas.ac.id/">
+  <a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://ojs.nla.org.np/">
 
     <svg width="16px"
      height="16px"
@@ -924,7 +919,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 </a></li>
 
             <li class='global-header-menu__list-item -background-light -border-radius'>
-    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://ema-jurnal.unmerpas.ac.id/">
+    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://ojs.nla.org.np/">
       <span id="spec-user-username" class='global-header-menu__link-text'>
         Sign In
       </span>
@@ -942,25 +937,25 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <div class="grid-container -layout-wide">
     <nav class="header-site-titles__container">
         <div class="header-site-titles__site">
-            <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://ema-jurnal.unmerpas.ac.id/">Slot88</a>
+            <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://ojs.nla.org.np/">Toto 4d</a>
         </div>
         <div class="header-site-titles__site">
-            <a class="header-site-titles__link t-link" alt="Code" href="https://ema-jurnal.unmerpas.ac.id/">SLOT</a>
+            <a class="header-site-titles__link t-link" alt="Code" href="https://ojs.nla.org.np/">Bandar Togel</a>
         </div>
         <div class="header-site-titles__site">
-            <a class="header-site-titles__link t-link" alt="Video" href="https://ema-jurnal.unmerpas.ac.id/">SLOT GACOR</a>
+            <a class="header-site-titles__link t-link" alt="Video" href="https://ojs.nla.org.np/">4d Gacor</a>
         </div>
         <div class="header-site-titles__site">
-            <a class="header-site-titles__link t-link" alt="Music" href="https://ema-jurnal.unmerpas.ac.id/">SITUS GACOR</a>
+            <a class="header-site-titles__link t-link" alt="Music" href="https://ojs.nla.org.np/">Toto 4d</a>
         </div>
         <div class="header-site-titles__site">
-            <a class="header-site-titles__link t-link" alt="Graphics" href="https://ema-jurnal.unmerpas.ac.id/">SLOT THAILAND GACOR </a>
+            <a class="header-site-titles__link t-link" alt="Graphics" href="https://ojs.nla.org.np/">Toto 4d Gacor </a>
         </div>
         <div class="header-site-titles__site">
-            <a class="header-site-titles__link t-link" alt="Photos" href="https://ema-jurnal.unmerpas.ac.id/">SITUS SLOT GACOR</a>
+            <a class="header-site-titles__link t-link" alt="Photos" href="https://ojs.nla.org.np/">4d</a>
         </div>
         <div class="header-site-titles__site">
-            <a class="header-site-titles__link t-link" alt="3D Files" href="https://ema-jurnal.unmerpas.ac.id/">SLOT ONLINE</a>
+            <a class="header-site-titles__link t-link" alt="3D Files" href="https://ojs.nla.org.np/">Togel 4d</a>
         </div>
 
       <div class="header-site-titles__site elements-nav__container">
@@ -1017,7 +1012,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
       <div class="header-site-floating-logo__container">
         <div class="" bis_skin_checked="1">
-          <img src="https://ema-jurnal.unmerpas.ac.id/favicon.ico" alt="slot gacor" style="max-width: 50px; height: auto; object-fit: contain;" data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
+          <img src="https://ojs.nla.org.np/favicon.ico" alt="4d gacor" style="max-width: 50px; height: auto; object-fit: contain;" data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
       </div>
       </div>
     </nav>
@@ -1031,39 +1026,39 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <div class="grid-container -layout-wide">
     <ul class="header-categories__links">
     <li class="header-categories__links-item">
-      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://ema-jurnal.unmerpas.ac.id/">Slot88</a>
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://ojs.nla.org.np/">Toto 4d</a>
     <li class="header-categories__links-item">
-      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://ema-jurnal.unmerpas.ac.id/">SLOT</a>
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://ojs.nla.org.np/">4d</a>
     <li class="header-categories__links-item">
-      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://ema-jurnal.unmerpas.ac.id/">SLOT THAILAND</a>
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://ojs.nla.org.np/">Toto 4d</a>
     <li class="header-categories__links-item">
-      <a class="header-categories__main-link header-categories__main-link--empty" href="https://ema-jurnal.unmerpas.ac.id/">SLOT BET 200</a>
+      <a class="header-categories__main-link header-categories__main-link--empty" href="https://ojs.nla.org.np/">Toto 4d</a>
     </li>
     <li class="header-categories__links-item">
-      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-4-dropdown" href="https://ema-jurnal.unmerpas.ac.id/">SITUS SLOT BET 200</a>
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-4-dropdown" href="https://ojs.nla.org.np/">SITUS Toto 4d</a>
     <li class="header-categories__links-item">
-      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-5-dropdown" href="https://ema-jurnal.unmerpas.ac.id/">SLOT THAILAND GACOR </a>
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-5-dropdown" href="https://ojs.nla.org.np/">Toto 4d GACOR </a>
       <li class="header-categories__links-item">
-      <a class="header-categories__main-link header-categories__main-link--empty" href="https://ema-jurnal.unmerpas.ac.id/">SLOT ONLINE</a>
+      <a class="header-categories__main-link header-categories__main-link--empty" href="https://ojs.nla.org.np/">Togel 4d</a>
     </li>
     <li class="header-categories__links-item">
-      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-7-dropdown" href="https://ema-jurnal.unmerpas.ac.id/">LINK SLOT88</a>
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-7-dropdown" href="https://ojs.nla.org.np/">LINK Toto 4d</a>
     <li class="header-categories__links-item">
-      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-8-dropdown" href="https://ema-jurnal.unmerpas.ac.id/">SLOT88</a>
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-8-dropdown" href="https://ojs.nla.org.np/">Toto 4d</a>
     <li class="header-categories__links-item">
-      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-9-dropdown" href="https://ema-jurnal.unmerpas.ac.id/">SLOT GACOR MAXWIN</a>
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-9-dropdown" href="https://ojs.nla.org.np/">Togel 4d</a>
        
     
 </ul>
 
     <div class="header-categories__search">
-  <form id="search" data-view="searchField" action="https://ema-jurnal.unmerpas.ac.id/" accept-charset="UTF-8" method="get">
+  <form id="search" data-view="searchField" action="https://ojs.nla.org.np/" accept-charset="UTF-8" method="get">
     <div class="search-field -border-light h-ml2">
       <div class="search-field__input">
         <input id="term" name="term" class="js-term search-field__input-field" type="search" placeholder="Search" />
       </div>
       <button class="search-field__button" type="submit">
-        <i class="e-icon -icon-search"><span class="e-icon__alt">Slot88</span></i>
+        <i class="e-icon -icon-search"><span class="e-icon__alt">Toto 4d</span></i>
       </button>
     </div>
 </form></div>
@@ -1090,16 +1085,16 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <div class="item-header__top">
     <div class="item-header__title">
       <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">
-        SLOT88 : Link Alternatif Slot Thailand Terbaru & Agen Slot Bet 200 Terpercaya
+        Toto 4d: Link Daftar Situs Toto Togel 4d Terpopuler Di Asia
       </h1>
 
       <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-        SLOT88 : Link Alternatif Slot Thailand Terbaru & Agen Slot Bet 200 Terpercaya
+        Toto 4d: Link Daftar Situs Toto Togel 4d Terpopuler Di Asia
       </h1>
     </div>
 
       <div class="item-header__price is-hidden-desktop">
-        <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://ema-jurnal.unmerpas.ac.id/">
+        <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://ojs.nla.org.np/">
           <span class="item-header__cart-button-icon">
             <i class="e-icon -icon-cart -margin-right"></i>
           </span>
@@ -1112,7 +1107,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
   <div class="item-header__details-section">
     <div class="item-header__author-details">
-      By <a rel="author" class="js-by-author" href="https://ema-jurnal.unmerpas.ac.id/">Slot88</a>
+      By <a rel="author" class="js-by-author" href="https://ojs.nla.org.np/">Toto 4d</a>
     </div>
       <div class="item-header__sales-count">
         <svg width="16px"
@@ -1130,7 +1125,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         <strong>25.000</strong> sales
       </div>
       <div class="item-header__envato-highlighted">
-        <strong>SITUS GACOR</strong>
+        <strong>Toto 4d</strong>
           <svg width="16px"
      height="16px"
      viewBox="0 0 14 14"
@@ -1152,8 +1147,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <!-- Desktop Item Navigation -->
   <div class="is-hidden-tablet-and-below page-tabs">
       <ul>
-          <li class="selected"><a class="js-item-navigation-item-details t-link -decoration-none" href="https://ema-jurnal.unmerpas.ac.id/">Item Details</a></li>
-          <li><a class="js-item-navigation-reviews t-link -decoration-none" href="https://ema-jurnal.unmerpas.ac.id/"><span>Reviews</span><span>  <div class="rating-detailed-small">
+          <li class="selected"><a class="js-item-navigation-item-details t-link -decoration-none" href="https://ojs.nla.org.np/">Item Details</a></li>
+          <li><a class="js-item-navigation-reviews t-link -decoration-none" href="https://ojs.nla.org.np/"><span>Reviews</span><span>  <div class="rating-detailed-small">
     <div class="rating-detailed-small__header">
       <div class="rating-detailed-small__stars">
         <div class="rating-detailed-small-center__star-rating">
@@ -1169,8 +1164,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
      </div>
   </div>
 </span><span class="item-navigation-reviews-comments">35</span></a></li>
-          <li><a class="js-item-navigation-comments t-link -decoration-none" href="https://ema-jurnal.unmerpas.ac.id/"><span>Comments</span><span class="item-navigation-reviews-comments">230</span></a></li>
-          <li><a class="js-item-navigation-support t-link -decoration-none" href="https://ema-jurnal.unmerpas.ac.id/">Support</a></li>
+          <li><a class="js-item-navigation-comments t-link -decoration-none" href="https://ojs.nla.org.np/"><span>Comments</span><span class="item-navigation-reviews-comments">230</span></a></li>
+          <li><a class="js-item-navigation-support t-link -decoration-none" href="https://ojs.nla.org.np/">Support</a></li>
       </ul>
 
 
@@ -1204,8 +1199,8 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
       <div class="page-tabs">
         <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
-            <li class="js-favorite-widget item-bookmarking__control_icons--favorite" data-item-id="56108851"><a data-view="modalAjax" class="t-link -decoration-none" href="https://ema-jurnal.unmerpas.ac.id/"><span class="item-bookmarking__control--label">Add to Favorites</span></a></li>
-            <li class="js-collection-widget item-bookmarking__control_icons--collection" data-item-id="56108851"><a data-view="modalAjax" class="t-link -decoration-none" href="https://ema-jurnal.unmerpas.ac.id/"><span class="item-bookmarking__control--label">Add to Collection</span></a></li>
+            <li class="js-favorite-widget item-bookmarking__control_icons--favorite" data-item-id="56108851"><a data-view="modalAjax" class="t-link -decoration-none" href="https://ojs.nla.org.np/"><span class="item-bookmarking__control--label">Add to Favorites</span></a></li>
+            <li class="js-collection-widget item-bookmarking__control_icons--collection" data-item-id="56108851"><a data-view="modalAjax" class="t-link -decoration-none" href="https://ojs.nla.org.np/"><span class="item-bookmarking__control--label">Add to Collection</span></a></li>
         </ul>
       </div>
 
@@ -1233,13 +1228,13 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader">
       <li class="item-bookmarking__control_icons--favorite">
           <span>
-    <a title="Add to Favorites" data-view="modalAjax" href="https://ema-jurnal.unmerpas.ac.id/"><span class="item-bookmarking__control--label">Add to Favorites</span></a>
+    <a title="Add to Favorites" data-view="modalAjax" href="https://ojs.nla.org.np/"><span class="item-bookmarking__control--label">Add to Favorites</span></a>
   </span>
 
       </li>
       <li class="item-bookmarking__control_icons--collection">
           <span>
-    <a title="Add to Collection" data-view="modalAjax" href="https://ema-jurnal.unmerpas.ac.id/">
+    <a title="Add to Collection" data-view="modalAjax" href="https://ojs.nla.org.np/">
       <span class="item-bookmarking__control--label">Add to Collection</span>
 </a>  </span>
 
@@ -1253,12 +1248,12 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
           
           
         <style>.n-columns-2{display:grid;grid-template-columns:repeat(2,1fr);font-weight:700}.n-columns-2 a{text-align:center}.login,.register{color:#fff;padding:13px 10px}.login,.login-button{text-shadow:2px 2px #0c0f12;border-radius:10px 10px;border:1px solid #1e274b;background:linear-gradient(to bottom,#a844fb 0,#3ebbf3 100%);color:#fff}.register,.register-button{text-shadow:2px 2px #000;border-radius:10px 10px;background:linear-gradient(to bottom,#ff00b2 0,#ff00b2 100%);border:1px solid #1e274b}</style>           
-    <a target="_blank" href="https://iwakwader.xyz/ampku/saleh/"><img alt="SLOT88 : Link Alternatif Slot Thailand Terbaru & Agen Slot Bet 200 Terpercaya" width="590" height="500" srcset="https://images2.imgbox.com/e7/34/hlbYHdRe_o.png" /></a>
+    <a target="_blank" href="https://mainnya-hebat.xyz/amp-wangy/ojs-nla"><img alt="Toto 4d: Link Daftar Situs Toto Togel 4d Terpopuler Di Asia" width="590" height="500" srcset="https://images2.imgbox.com/e3/5b/qPIZdGW0_o.png" /></a>
 
     <div class="item-preview__actions" bis_skin_checked="1">
       <div class="n-columns-2">
-          <a href="https://iwakwader.xyz/ampku/saleh/" rel="nofollow noreferrer" class="login">LOGIN</a>
-          <a href="https://iwakwader.xyz/ampku/saleh/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+          <a href="https://mainnya-hebat.xyz/amp-wangy/ojs-nla" rel="nofollow noreferrer" class="login">LOGIN Toto 4d</a>
+          <a href="https://mainnya-hebat.xyz/amp-wangy/ojs-nla" rel="nofollow noreferrer" class="register">DAFTAR Togel 4d</a>
       </div>
   </div>
   </div>
@@ -1270,7 +1265,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                                <a class="item-description-toggle__link" href="https://ema-jurnal.unmerpas.ac.id/">
+                                                <a class="item-description-toggle__link" href="https://ojs.nla.org.np/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i class="e-icon -icon-chevron-down -rotate-180"></i></span>
                                                 </a>
@@ -1378,15 +1373,15 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 <ul class="t-icon-list -font-size-s -icon-size-s -offset-flush">
                   <li class="t-icon-list__item -icon-ok">
                     <span class="is-visually-hidden">Included:</span>
-                    SLOT88
+                    Toto 4d
                   </li>
                   <li class="t-icon-list__item -icon-ok">
                     <span class="is-visually-hidden">Included:</span>
-                    SLOT THAILAND
+                    Togel 4d
                   </li>
                   <li class="t-icon-list__item -icon-ok">
                     <span class="is-visually-hidden">Included:</span>
-                    Member Aktif 15.650/Day <span class="purchase-form__author-name">SLOT BET 200</span>
+                    Member Aktif 15.650/Day <span class="purchase-form__author-name">Toto 4d</span>
                       <a class="t-link -decoration-reversed js-support__inclusion-link" data-view="modalAjax" href="/item_support/what_is_item_support/56108851">
                         <svg width="12px"
      height="13px"
@@ -1410,7 +1405,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                       </div>
                   <div class="purchase-form__upgrade-info">
                       <label class="purchase-form__label purchase-form__label--before-after-price" for="support">
-                        SITUS GACOR HARI INI
+                        Toto 4d Hari Ini
                         <span class="purchase-form__price purchase-form__price--before-after-price t-heading -size-xs h-pull-right">
                             <span class="js-renewal__price t-currency purchase-form__renewal-price purchase-form__renewal-price--strikethrough">
                               $23.63
@@ -1427,9 +1422,9 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 </div>
           
    
-          <p class="t-body -size-m"><i>SLOT88 merupakan situs server slot thailand resmi yang menyediakan akses bermain di link alternatif rtp slot gacor deposit menggunakan dana 2025. Mudah scatter & akses login aman dengan layanan cepat sangat cocok dimainkan siapa saja dan kapan saja.</i>
+          <p><a href="https://ojs.nla.org.np/">Toto 4d</a>&nbsp;termasuk daftar situs toto resmi yang menyediakan link bandar togel 4d terpopuler di asia. Layanan cepat, fitur permainan lengkap sehingga menjadi incaran banyak orang untuk mencoba bermain di situs toto 4d. Dengan bermodalkan 10 ribu saja semua orang sudah bisa memainkan permainan toto 4d dimana saja dan kapan saja.</p>
           <div class="purchase-form__us-dollars-notice-container">
-              <p class="purchase-form__us-dollars-notice"><i>Price is in US dollars and excludes tax and handling fees</i></p>
+              <p class="purchase-form__us-dollars-notice"><i>Toto 4d</i></p>
 
           </div>
         </div>
@@ -1453,10 +1448,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
 
     <div class="t-body -size-s h-text-align-center h-mt2">
-  &copy; All Rights Reserved Slot88
+  &copy; All Rights Reserved Toto 4d
   <br/>
   <br>
-  <a href="https://ema-jurnal.unmerpas.ac.id/">Contact the Slot88 Market Help Team</a>
+  <a href="https://ojs.nla.org.np/">Contact the Toto 4d Market Help Team</a>
   
 </div>
 
@@ -1489,19 +1484,19 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
               Envato Market
             </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Terms</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Terms</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Licenses</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Licenses</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Market API</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Market API</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Become an affiliate</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Become an affiliate</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Cookies</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Cookies</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
                   <button type="button" class="global-footer__text-link" data-view="cookieSettings">Cookie Settings</button>
@@ -1514,10 +1509,10 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
               Help
             </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Help Center</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Help Center</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Authors</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Authors</a>
               </li>
           </ul>
         </li>
@@ -1527,35 +1522,35 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
               Our Community
             </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Community</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Community</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Blog</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Blog</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Meetups</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Meetups</a>
               </li>
           </ul>
         </li>
         <li class='global-footer-info-links__list-item'>
           <ul class='global-footer-sublist'>
             <li class='global-footer-sublist__item-title'>
-              Meet Slot88
+              Meet Toto 4d
             </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">About Slot88</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">About Toto 4d</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Careers</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Careers</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Privacy Policy</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Privacy Policy</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Do not sell or share my personal information</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Do not sell or share my personal information</a>
               </li>
               <li class='global-footer-sublist__item h-p0'>
-                <a class="global-footer__text-link" href="https://ema-jurnal.unmerpas.ac.id/">Sitemap</a>
+                <a class="global-footer__text-link" href="https://ojs.nla.org.np/">Sitemap</a>
               </li>
           </ul>
         </li>
@@ -1564,7 +1559,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
   <div class='global-footer-stats'>
     <div class='global-footer-stats__content'>
-      <img class="global-footer-stats__logo" alt="Envato Market" src="https://www.gg-games.xyz/img/slot88-logo.png" />
+      <img class="global-footer-stats__logo" alt="Envato Market" src="https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-precomposed-c581101b4f39d1ba1c4a5e45edb6b3418847c5c387b376930c6a9922071c8148.png" />
 
       <ul class='global-footer-stats__list'>
         <li class='global-footer-stats__list-item h-p0'>
@@ -1896,68 +1891,3 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
   <!-- <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"0d22b56da34444c7a47e981775c83a2e","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script> -->
 </body>
 </html>
-
-<?php
-exit;
-}
-?>
-<?php
-
-/**
- * @defgroup index
- */
-
-/**
- * @file includes/bootstrap.inc.php
- *
- * Copyright (c) 2013-2016 Simon Fraser University Library
- * Copyright (c) 2000-2016 John Willinsky
- * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
- *
- * @ingroup index
- *
- * @brief Core system initialization code.
- * This file is loaded before any others.
- * Any system-wide imports or initialization code should be placed here.
- */
-
-
-/**
- * Basic initialization (pre-classloading).
- */
-
-define('ENV_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? ';' : ':');
-if (!defined('DIRECTORY_SEPARATOR')) {
-	// Older versions of PHP do not define this
-	define('DIRECTORY_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? '\\' : '/');
-}
-define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
-chdir(BASE_SYS_DIR);
-
-// Update include path - for backwards compatibility only
-// Try to use absolute (/...) or relative (./...) filenames
-// wherever possible to bypass the costly file name normalization
-// process.
-ini_set('include_path', '.'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/classes'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/pages'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp/classes'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp/pages'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp/lib/adodb'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp/lib/phputf8'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp/lib/pqp/classes'
-	. ENV_SEPARATOR . BASE_SYS_DIR . '/lib/pkp/lib/smarty'
-	. ENV_SEPARATOR . ini_get('include_path')
-);
-
-// System-wide functions
-require('./lib/pkp/includes/functions.inc.php');
-
-// Initialize the application environment
-import('classes.core.Application');
-// FIXME: As long as we support PHP4 we cannot use the return
-// value from the new statement directly. See http://pkp.sfu.ca/wiki/index.php/Information_for_Developers#Use_of_.24this_in_the_constructor
-// We rather retrieve the application instance by-ref from the registry.
-new Application();
-?>
