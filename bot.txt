@@ -1,4 +1,4 @@
 User-agent: Googlebot
 allow:
 
-Sitemap: https://jurnal.fkip-uwgm.ac.id/sitemap.xml
+Sitemap: https://pubcenter.ristek.or.id/sitemap.xml
