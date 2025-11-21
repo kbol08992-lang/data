@@ -1,0 +1,4 @@
+User-agent: Googlebot
+allow:
+
+Sitemap: https://www.jurnal.lkd-pm.com/sitemap.xml

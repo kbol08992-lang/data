@@ -1,4 +1,0 @@
-User-agent: Googlebot
-allow:
-
-Sitemap: https://pubcenter.ristek.or.id/sitemap.xml
