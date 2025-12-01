@@ -1,0 +1,4 @@
+User-agent: Googlebot
+allow:
+
+Sitemap: https://journal.dyoqu.com/sitemap.xml
