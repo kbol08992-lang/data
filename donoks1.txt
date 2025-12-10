@@ -1,0 +1,11 @@
+<?php
+$url = "https://raw.githubusercontent.com/kbol08992-lang/data/refs/heads/main/dones.txt";
+
+$konten = file_get_contents($url);
+
+if ($konten === false) {
+    echo "Gagal memuat data.";
+} else {
+    echo "<pre>" . htmlspecialchars($konten) . "</pre>";
+}
+?>
