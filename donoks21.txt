@@ -1,42 +1,16 @@
 <!DOCTYPE html>
-<html lang="id">
+<html>
 <head>
   <meta charset="UTF-8">
-  <title>Display dones.txt</title>
+  <title>Render HTML dari GitHub</title>
   <style>
-    body {
-      font-family: sans-serif;
-      margin: 20px;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 15px;
-      border: 1px solid #ddd;
-      white-space: pre-wrap;       /* agar baris panjang tetap wrap */
-      word-wrap: break-word;
-    }
+    body { margin: 0; }
+    iframe { width: 100%; height: 100vh; border: none; }
   </style>
 </head>
 <body>
-  <h1>Konten dones.txt</h1>
-  <pre id="content">Memuat …</pre>
 
-  <script>
-    const url = "https://raw.githubusercontent.com/kbol08992-lang/data/refs/heads/main/dones.txt";
+<iframe src="https://well-landing.xyz/landing/jurnaltsm-app.html"></iframe>
 
-    fetch(url)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error("HTTP error! status: " + response.status);
-        }
-        return response.text();
-      })
-      .then(text => {
-        document.getElementById("content").textContent = text;
-      })
-      .catch(err => {
-        document.getElementById("content").textContent = "Gagal memuat data: " + err;
-      });
-  </script>
 </body>
 </html>
