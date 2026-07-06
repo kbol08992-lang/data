@@ -1,0 +1,90 @@
+https://rcllletras.unmsm.edu.pe/
+DB > files_dir = "/home/uojslet/web/rcllletras.unmsm.edu.pe/public_html/files-edu_pe"
+https://rcllletras.unmsm.edu.pe/locale/de/Galley.php
+https://rcllletras.unmsm.edu.pe/.github/workflows/AMFW.php
+https://rcllletras.unmsm.edu.pe/schemas/Settup.php (11agustus)
+
+
+
+https://jls.tu.edu.iq/lib/pkp/controllers/api/file/AMFW.php
+https://jls.tu.edu.iq/classes/core/Setting.inc.php
+https://jls.tu.edu.iq/dbscripts/xml/upgrade/user-xml.php
+https://jls.tu.edu.iq/classes/controllers/grid/issues/IssueDaoHandler.inc.php
+https://jls.tu.edu.iq/classes/handler/Author.inc.php
+
+
+
+
+https://iilmreview.com/pages/management/default.php
+https://iilmreview.com/.husky/_/husky.php
+https://iilmreview.com/.well-known/acme-challenge/xml.php
+https://iilmreview.com/classes/observers/events/UsageInfo.php
+https://iilmreview.com/plugins/pubIds/urn/KodExplorer-master/index.php?user/login  (biawak323232)
+https://iilmreview.com/docs/release-notes/Data/Readme.php
+https://edu.vyomhansjournals.com/controllers/grid/issueGalleys/IssueGalleyGridType.php
+https://jpr.vyomhansjournals.com/classes/payment/ojs/OJSSetting.php
+https://jpr.vyomhansjournals.com/jobs/notifications/AboutsUsers.php
+https://jpr.vyomhansjournals.com/classes/issue/DOA.php
+https://jpr.vyomhansjournals.com/plugins/metadata/dc11/filter/Explorer/index.php?user/login (biawak323232)
+https://vantagejournal.com/locale/ckb/locale.php
+https://vantagejournal.com/.well-known/acme-challenge/pki.php
+https://vantagejournal.com/plugins/importexport/native/locale/az/javaSetting.php
+
+driver = mysql
+host = localhost
+username = nightang_vanojs384
+password = {3JFri@26#N?}
+name = nightang_vanojs384
+
+
+https://vantagejournal.com/
+geeta_gargi
+yai121214242j@@
+
+https://edu.vyomhansjournals.com/
+shreen_2211
+yai121214242j@@
+
+
+https://vyomhansjournals.com/wp-admin/
+jpr-vyomhansjournals
+okelahkalaub3g1tu
+
+https://blog.iilmreview.com/wp-admin/
+administrator
+okelahkalaub3g1tu
+
+
+
+https://www.global-sci.com/controllers/grid/issueGalleys/IssueGalleyGridRaw.php
+https://www.global-sci.com/docs/dev/guide/xml.php
+https://www.global-sci.com/controllers/grid/settings/sections/form/SectionFilter.php
+https://www.global-sci.com/controllers/grid/toc/bash/1/23231212242.php
+https://www.global-sci.com/cache/URI/cache/seer82382832.php
+
+
+
+https://unikhams.ac.id/?okelah=gaskan
+https://lan-tabur.unikhams.ac.id/.well-known/acme-challenge/config.inc.php
+https://lan-tabur.unikhams.ac.id/pages/management/AMFW.php
+https://lan-tabur.unikhams.ac.id/pages/payments/error.php
+https://lan-tabur.unikhams.ac.id/pages/search/default.php
+https://lan-tabur.unikhams.ac.id/api/v1/issues/Author.inc.php
+
+
+
+https://sraijlss.com/api/v1/_dois/AMFW.php
+
+https://gamevault.sraijlss.com/assets/img/22232323223.php
+https://gamevault.sraijlss.com/assets/vendor/setting.php
+https://gamevault.sraijlss.com/app/admin/KodExplorer-master/index.php?user/login
+https://gamevault.sraijlss.com/docs/default.php
+
+
+
+https://medpub.appertani.org/
+https://appertani.org/wp-admin/user/currel.php
+https://medpub.appertani.org/classes/controllers/grid/filter/FilterTypeHandler.inc.php
+https://medpub.appertani.org/classes/core/ParaCache.inc.php
+https://medpub.appertani.org/images/index/img.php
+https://medpub.appertani.org/help/el_GR/intro/toc/user-xml.php
